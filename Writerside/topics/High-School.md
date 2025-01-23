@@ -1,0 +1,3 @@
+# High School
+
+Start typing here...
