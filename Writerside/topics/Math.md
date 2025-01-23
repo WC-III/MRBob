@@ -11,3 +11,6 @@ Honestly, I see people not remember things, and I'd love to give them one big ol
 
 And that's exactly what this is.
 Under this category is the specific tier, and then the class, then the unit, then sub-unit if applicable.
+
+Finally, each sub-unit will contain an overview, a terms section, and the actual notes.
+Unit 2 and onward for each class will contain a recap section in case anything important is needed.

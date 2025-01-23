@@ -10,4 +10,9 @@
         <description>Created after removal of "About" from Math</description>
         <accepts>About.html</accepts>
     </rule>
+    <rule id="11d73acb">
+        <description>Created after removal of "1.13: Function Model Selection and Assumption Articulation" from Math
+        </description>
+        <accepts>1-13-Function-Model-Selection-and-Assumption-Articulation.html</accepts>
+    </rule>
 </rules>
