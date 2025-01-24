@@ -7,6 +7,7 @@
                  start-page="starter-topic.md">
 
     <toc-element topic="starter-topic.md">
+        <toc-element topic="Questions-and-Answers.md"/>
         <toc-element topic="Contributions.md"/>
     </toc-element>
     <toc-element topic="Math.md">
@@ -34,14 +35,16 @@
                     <toc-element topic="2-13-Exponential-and-Logarithmic-Equations-and-Inequalities.md"/>
                 </toc-element>
                 <toc-element topic="APPCU3.md">
-                    <toc-element topic="3-9-12-Expanded-Trigonometry.md"/>
                     <toc-element topic="3-1-Periodic-Phenomena.md"/>
                     <toc-element topic="3-2-4-Sine-and-Cosine.md"/>
                     <toc-element topic="3-5-7-Sinusoidal-Functions.md"/>
+                    <toc-element topic="3-8-The-Tangent-Function.md"/>
+                    <toc-element topic="3-9-12-Expanded-Trigonometry.md"/>
                 </toc-element>
                 <toc-element topic="APPCU4.md">
                     <toc-element topic="4-6-Conic-Sections.md"/>
                 </toc-element>
+                <toc-element topic="APPC-Glossary.md"/>
             </toc-element>
         </toc-element>
     </toc-element>
