@@ -10,6 +10,7 @@
         <toc-element topic="Contributions.md"/>
     </toc-element>
     <toc-element topic="Math.md">
+        <toc-element topic="Notation.md"/>
         <toc-element topic="Collegiate.md"/>
         <toc-element topic="High-School.md">
             <toc-element topic="AP-Precalculus.md">
@@ -23,16 +24,24 @@
                     <toc-element topic="1-12-Transformation-of-Functions.md"/>
                     <toc-element topic="1-14-Function-Model-Construction-and-Application.md"/>
                 </toc-element>
-                <toc-element topic="APPCU2.md"/>
-                <toc-element topic="APPCU3.md">
-                    <toc-element topic="3-1-Periodic-Phenomena.md"/>
-                    <toc-element topic="3-2-Sine-Cosine-and-Tangent-and-Radian-Angle-Measures.md"/>
-                    <toc-element topic="3-3-Sine-and-Cosine-Function-Values.md"/>
-                    <toc-element topic="3-4-Sine-and-Cosine-Function-Graphs.md"/>
-                    <toc-element topic="3-5-Sinusoidal-Functions.md"/>
-                    <toc-element topic="3-6-Sinusoidal-Function-Transformations.md"/>
+                <toc-element topic="APPCU2.md">
+                    <toc-element topic="2-1-2-Change-in-Relationships.md"/>
+                    <toc-element topic="2-3-5-Exponential-Functions.md"/>
+                    <toc-element topic="2-6-Competing-Function-Model-Validation.md"/>
+                    <toc-element topic="2-7-Composition-of-Functions.md"/>
+                    <toc-element topic="2-8-Inverse-Functions.md"/>
+                    <toc-element topic="2-9-12-2-14-15-Logarithmic-Functions.md"/>
+                    <toc-element topic="2-13-Exponential-and-Logarithmic-Equations-and-Inequalities.md"/>
                 </toc-element>
-                <toc-element topic="APPCU4.md"/>
+                <toc-element topic="APPCU3.md">
+                    <toc-element topic="3-9-12-Expanded-Trigonometry.md"/>
+                    <toc-element topic="3-1-Periodic-Phenomena.md"/>
+                    <toc-element topic="3-2-4-Sine-and-Cosine.md"/>
+                    <toc-element topic="3-5-7-Sinusoidal-Functions.md"/>
+                </toc-element>
+                <toc-element topic="APPCU4.md">
+                    <toc-element topic="4-6-Conic-Sections.md"/>
+                </toc-element>
             </toc-element>
         </toc-element>
     </toc-element>

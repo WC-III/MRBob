@@ -1,0 +1,3 @@
+# 3.9-12: Expanded Trigonometry
+
+Start typing here...

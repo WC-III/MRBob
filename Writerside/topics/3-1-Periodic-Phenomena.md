@@ -17,7 +17,7 @@ Say you have some graph, or a table of points. Let's begin with a graph.
 
 ![A graph of a periodic function.](Screenshot_2025-01-22_12-14-41.png)
 
-If you can see the numbers, great. This is a graph from $0 \leq x \leq 19 \, \| \, (0, 19)$
+If you can see the numbers, great. This is a graph from $0 \leq x \leq 19 \; \| \, (0, 19)$
 The period is 5, because from 0 to 5 is a single cycle.
 Afterward, it will repeat, therefore the period is **5**.
 

@@ -1,3 +1,0 @@
-# 3.5: Sinusoidal Functions
-
-Start typing here...

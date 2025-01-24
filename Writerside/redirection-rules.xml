@@ -15,4 +15,29 @@
         </description>
         <accepts>1-13-Function-Model-Selection-and-Assumption-Articulation.html</accepts>
     </rule>
+    <rule id="edc3912">
+        <description>
+            <![CDATA[Created after removal of "3.2: Sine, Cosine, and Tangent & Radian Angle Measures" from Math]]></description>
+        <accepts>3-2-Sine-Cosine-and-Tangent-and-Radian-Angle-Measures.html</accepts>
+    </rule>
+    <rule id="79bd59cb">
+        <description>Created after removal of "3.3: Sine and Cosine Function Values" from Math</description>
+        <accepts>3-3-Sine-and-Cosine-Function-Values.html</accepts>
+    </rule>
+    <rule id="5780a047">
+        <description>Created after removal of "3.4: Sine and Cosine Function Graphs" from Math</description>
+        <accepts>3-4-Sine-and-Cosine-Function-Graphs.html</accepts>
+    </rule>
+    <rule id="201724ba">
+        <description>Created after removal of "3.5: Sinusoidal Functions" from Math</description>
+        <accepts>3-5-Sinusoidal-Functions.html</accepts>
+    </rule>
+    <rule id="1fe51b20">
+        <description>Created after removal of "3.6: Sinusoidal Function Transformations" from Math</description>
+        <accepts>3-6-Sinusoidal-Function-Transformations.html</accepts>
+    </rule>
+    <rule id="3e722a57">
+        <description>Created after removal of "2.15: Semi-log Plots" from Math</description>
+        <accepts>2-15-Semi-log-Plots.html</accepts>
+    </rule>
 </rules>

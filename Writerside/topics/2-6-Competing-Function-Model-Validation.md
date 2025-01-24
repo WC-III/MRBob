@@ -1,0 +1,3 @@
+# 2.6: Competing Function Model Validation
+
+Start typing here...
