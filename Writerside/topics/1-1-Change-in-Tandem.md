@@ -18,13 +18,17 @@ The words in bold you will hear a lot.
 In fact, you'll probably use it on the AP Exam, so keep it in mind now.
 
 Domain
-: Independent variable $\|\; x$.
+: Independent variable $\| \; x$.
 Usually represented in inequality / interval notation.
 Both are provided in these pages.
 
 Range
-: Dependent variable $\|\; y$.
+: Dependent variable $\| \; y$.
 Same representation as Domain.
+
+Rate of Change (Slope)
+: The value / description of how a function changes.
+Usually represented as $\frac{rise}{run} \; \| \; \frac{\Delta y}{\Delta x}$
 
 ## AP Aside
 
@@ -46,20 +50,48 @@ In 1.1, we're starting with the basics.
 
 ### "Positivity"
 
-There's no real blanket term for this, but it's here.
-Take a function, $f(x)=3x+2$.
+This isn't an official term, as it isn't defined like one, but here it is.
 
-> If we ever refer to "function $f$", then it's the function labeled $f(x)$; this applies to all letters.
-{style="note"}
+Positivity [UNOFFICIAL]
+: The state of the graph dependent on output values.
+Can be in one of two states: positive or negative.
+The graph / function is positive on a x-value if the according output is positive, likewise for negative.
+If the output is 0, it is neither.
 
-If you look at the graph of the function, pictured here:
+Let us have an example for this one, just to cement it.
 
 ![A graph of the function f(x) = 3x+2](1.1.positivity.png)
 
-now we have a basis for these terms.
+This is a graph of the function $f(x) = 3x + 2$.
 
-Positivity is defining if $f$ is positive or negative.
-To be positive, the outputs must be above the x-axis, or above 0.
-To be negative, on the other hand, the outputs must be below the x-axis, or below 0.
+> If I ever use "function $f$", it's referring to $f(x)$.
+Apply that to all other letters.
+{style="note"}
 
-If a question asks *over which interval is function $f$ positive*, the answer is $(\frac {-4}{3}, \infty)$
+Looking at the graph, anything past $x = -\frac{4}{3}$ is above the x-axis, representing positive y-values.
+Therefore, function $f$ is positive from $-\frac{4}{3} < x < \infty \; \| \; (-\frac{4}{3}, \infty)$.
+
+> Infinity will never have an equal sign, or a bracket.
+This is because infinity is an undefined value, for the sake of this course.
+
+> An output value of zero is neither positive nor negative, hence the non-equality / parenthesis.
+Always assume positivity zones will be only exclusive, unless stated otherwise.
+{style="warning"}
+
+### Graphical Behavior
+
+We've already looked at Positivity, but there are four more things a graph can have.
+
+State of Change [UNOFFICIAL]
+: Describing how the graph is sloped.
+Has two states: increasing and decreasing.
+If the slope is positive, it's increasing.
+If the slope is negative, it's decreasing.
+
+Concavity
+: Describing the change in the rate of change (shape of the graph).
+If the rate of change is increasing, it's concave up.
+If the rate of change is decreasing, it's concave down.
+: There's a common piece to remember it, usually in reference to parabolas (that's later!).
+: "Up like a cup, down like a frown"
+

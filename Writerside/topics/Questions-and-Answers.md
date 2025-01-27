@@ -38,5 +38,5 @@ I have no timeline, this is a low-priority project for me anyway.
 But, if you must know, here's something to hold you:
 
 * AP Calculus AB / BC: Whenever the 2025-2026 school year rolls around, I'll get to it.
-* Algebra I/II: I might bother a friend of mine to send copies of their notes.
-* Geometry: No idea. Geometry is important as a precursor to APPC, but I don't have anyone I know in Geometry right now.
+* AP Statistics: Unknown. I'll look over the curriculum and see what I can do.
+* Any other local class: Can't. They're non-standard, and the standards for each state change often.

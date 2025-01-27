@@ -13,6 +13,7 @@
     <toc-element topic="Math.md">
         <toc-element topic="Notation.md"/>
         <toc-element topic="Collegiate.md"/>
+        <toc-element topic="APPC-Glossary.md"/>
         <toc-element topic="High-School.md">
             <toc-element topic="AP-Precalculus.md">
                 <toc-element topic="APPCU1.md">
@@ -44,7 +45,6 @@
                 <toc-element topic="APPCU4.md">
                     <toc-element topic="4-6-Conic-Sections.md"/>
                 </toc-element>
-                <toc-element topic="APPC-Glossary.md"/>
             </toc-element>
         </toc-element>
     </toc-element>
