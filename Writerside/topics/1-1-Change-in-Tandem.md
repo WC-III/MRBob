@@ -40,6 +40,8 @@ Get familiar with all of them, you're going to need it.
 
 > These pages are a supplement to the material you're learning, not meant to substitute.
 I do not provide worksheets, I only provide limited examples of concepts in case it's required.
+<br></br><br></br>
+On an unrelated note, any terms that have [UNOFFICIAL] next to them shouldn't be used on any exam.
 {style="warning"}
 
 ## Beginning with Graphs
@@ -55,7 +57,7 @@ This isn't an official term, as it isn't defined like one, but here it is.
 Positivity [UNOFFICIAL]
 : The state of the graph dependent on output values.
 Can be in one of two states: positive or negative.
-The graph / function is positive on a x-value if the according output is positive, likewise for negative.
+The graph / function is positive on an x-value if the according output is positive, likewise for negative.
 If the output is 0, it is neither.
 
 Let us have an example for this one, just to cement it.
@@ -80,6 +82,15 @@ Always assume positivity zones will be only exclusive, unless stated otherwise.
 
 ### Graphical Behavior
 
+#### Quickly Touching on Bounds
+For most parts of this, graphs will be unbounded.
+This means that inequalities / intervals will go to infinity in one / two direction(s) in most cases.
+If I ever do specify a bound, like "... graph of $f$ from $-2 \leq x \leq 2$", then the inequality / interval will not go past -2 or 2.
+
+Also, $\cup$.
+This is the "union" symbol, joining two intervals, such as $[0, 3) \cup (3, 5]$, which is usually used to get around an exclusive point or hole (that's later!)
+
+#### The Behavior
 We've already looked at Positivity, but there are four more things a graph can have.
 
 State of Change [UNOFFICIAL]
@@ -95,3 +106,44 @@ If the rate of change is decreasing, it's concave down.
 : There's a common piece to remember it, usually in reference to parabolas (that's later!).
 : "Up like a cup, down like a frown"
 
+Point of Inflection
+: Where the graph changes concavity.
+It will be where the rate of change is the greatest / least between two sections, or the "steepest".
+Helpful for determing concavity.
+
+> Questions will often attempt to trick you.
+This is generally how it will always be on the exam, be prepared for horrible wording.
+A common trick is to used "$f$ is increasing" and "the rate of change of $f$ is increasing", which mean two functionally different things but are similar at a glance.
+Do not confuse the two.
+{style="warning"}
+
+For an example, take this graph.
+
+![A graph of the function g(x) = x^2](1.1.scc.png)
+
+This is a graph of the function $g(x) = x^2$.
+The graph is increasing from $0 < x < \infty \; \| \; (0, \infty)$,
+and decreasing from $-\infty < x < 0 \; \| \; (-\infty, 0)$.
+The graph is also exclusively concave up, because the rate of change of $g$ is increasing.
+
+> For any graph of $x^n$, where n is any even number, it will always be either concave up or concave down.
+If the function leads with a negative, it's down, otherwise, it's up.
+This is a useful shorthand to know immediately if these simple functions are opening up or down.
+
+### Putting it All Together
+
+One final graph to look at, and this one is more fit for an AP course.
+
+![A graph of the function h(x) = 2x^4 - 3x^3 - 2x^2 + 3x](1.1.together.png)
+
+This is a graph of the function $h(x) = 2x^4 - 3x^3 - 2x^2 + 3x$.
+
+For a few examples (these are all to the nearest tenth by eye):
+
+1. Function $h$ is negative and concave up from the interval of $(-1, 0) \cup (1, 1.6)$.
+2. Function $h$ is increasing and positive from the interval of $(0, 0.6) \cup (1.6, \infty)$.
+3. Function $h$ is positive from the interval of $(-\infty, -1) \cup (0, 1) \cup (1.6, \infty)$.
+
+> The AP exam uses intervals, so please get familiar with them.
+From 1.2 forward I will not list inequality notation, unless we're talking about graphical / function bounds.
+{style="note"}
