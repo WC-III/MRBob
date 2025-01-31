@@ -147,3 +147,7 @@ For a few examples (these are all to the nearest tenth by eye):
 > The AP exam uses intervals, so please get familiar with them.
 From 1.2 forward I will not list inequality notation, unless we're talking about graphical / function bounds.
 {style="note"}
+
+## Conclusion
+1.1 is generally regarded as the easiest AP Precalculus has to offer, but it's just as important as everything else.
+These initial pages will serve as a foundation, use them well.

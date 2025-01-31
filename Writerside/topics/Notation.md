@@ -25,3 +25,4 @@ Usually used when referring to multiple solutions.
 : Example: $x = 5 \; \&\& \; x = 3$
 : `Contribution Note: In LaTex, I'll use "$\; \&\& \;$" for representing and.
 Again, adequate spacing.`
+
