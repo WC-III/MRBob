@@ -59,5 +59,53 @@ Yes, there is some activity on determining if the slope is positive or negative,
 
 <!-- 1.3 -->
 ## 1.3 Overview {switcher-key="1.3"}
+Finally, we get to our first two pieces of one type of standard function: linear and quadratic.
 
-Finally, we get to our first two classifications of standard functions: linear and quadratic.
+### AROC Recap
+To quickly recap, last subunit was on rate of change and how it's calculated, now to quickly put it in terms of a graph.
+
+![some weird graph](1.3.recap.png)
+
+From the two points listed, you can easily calculate the rate of change, were a secant line drawn through the two.
+Which is also just the average rate of change between the two points.
+For reference, it's $\frac{-1.62276 - 2.07979}{0.59307-(-0.84307)} \to -2.578$
+
+> More often than not, numbers will not be this messy.
+While in introduction topics, people usually use nice clean whole numbers, I'm showing you the ugly things first.
+On the AP Exam, it might get a little worse, but NEVER will it be worse than what I give here.
+Just preparing for the worst is all.
+{style="note"}
+
+### Functions
+Linear and quadratic functions both have formal definitions in terms of their rate of change.
+
+Linear Function
+: A function where the average rate of change is always constant across any length input interval.
+
+Quadratic Function
+: A function where the average rate of change is changing at a constant rate across equal-length input intervals.
+
+As an example, for a linear function of $f(x) = 3x + 2$, the result of $\frac{\Delta y}{\Delta x}$ will always be 3.
+Time for another graph, this time something simple.
+
+![A graph of the equation f(x) = x^2](1.3.arocquad.png)
+
+The table below is a table of points:
+
+|x|y|
+|-|-|
+|0|0|
+|1|1|
+|2|4|
+|3|9|
+|4|16|
+
+With a little bit of other math, it ends up resulting in the AROCs of $1, 3, 5, 7$.
+This proves a quadratic function, since each AROC across **equal-length input intervals** is increasing by 2.
+
+> The phrase "equal-length input intervals" is another AP Exam term to take note of.
+Yet another phrase you'll need to use in your FRQs.
+{style="note"}
+
+### 1.3 Conclusion
+While simple, this is a somewhat important clarification for later math and 1.4.

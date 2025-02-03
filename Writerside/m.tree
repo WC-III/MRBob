@@ -7,10 +7,11 @@
                  start-page="starter-topic.md">
 
     <toc-element topic="starter-topic.md">
+        <toc-element topic="Math.md"/>
         <toc-element topic="Questions-and-Answers.md"/>
         <toc-element topic="Contributions.md"/>
     </toc-element>
-    <toc-element topic="Math.md">
+        <toc-element toc-title="The Math">
         <toc-element topic="Notation.md"/>
         <toc-element topic="Collegiate.md"/>
         <toc-element topic="Glossary.md"/>

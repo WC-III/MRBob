@@ -14,21 +14,20 @@ This is split up into four parts.
 
 Unit 3.2 is commonly split into two parts, which is the same here.
 
-Part 1 is discussing Radians, and why we use them instead of Degrees in AP Precalculus.
+Part 1 is for figuring out sine, cosine, and tangent.
 
-Part 2 is about the initial 3 trigonometric functions that the unit takes its name from -
-sine, cosine, and tangent.
+Part 2 is discussing Radians, and why they're used over degrees in APPC.
 
 > If you remember anything about geometry, those names should be familiar, so keep what you've learned in the past, in mind.
 {style="note"}
 
-### _Part 1: Radians_
+### _Part 1: Sine, Cosine, and Tangent_
 
 ### Terms
 
-Radian
-: An alternate way to measure angle.
-There are $2 \pi$ radians around a circle, keep that in mind.
+Trigonometric Function
+: A category of periodic functions founded on the basics of circles.
+Includes $\sin(\theta)$, $\cos(\theta)$, and $\tan(\theta)$. 
 
 <!-- 3.3 -->
 ## 3.3 Overview {switcher-key="3.3"}
