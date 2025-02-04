@@ -1,3 +1,0 @@
-# Unit 2: Exponential and Logarithmic Functions
-
-Start typing here...

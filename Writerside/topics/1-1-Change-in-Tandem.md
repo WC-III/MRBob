@@ -17,6 +17,13 @@ Function
 The words in bold you will hear a lot.
 In fact, you'll probably use it on the AP Exam, so keep it in mind now.
 
+> About functions, actually.
+Do NOT tell your readers about the vertical line test.
+It is not useful in this course, except for regular functions.
+Polar & Parametric functions will fail the vertical line test, but are still functions.
+Use the phrase in bold above.
+{style="warning"}
+
 Domain
 : Independent variable $\| \; x$.
 Usually represented in inequality / interval notation.

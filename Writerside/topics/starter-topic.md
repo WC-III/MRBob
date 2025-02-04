@@ -12,3 +12,6 @@ Now, there will definitely be a lot to take in, which is why this will be neatly
 
 > This final variation of note is a warning, something to be careful of and to consider when doing calculations or answering questions.
 {style="warning"}
+
+Subunits for anything will always be in the top right on desktop, top left on mobile.
+Percentages next to a unit will be its exam weight range.

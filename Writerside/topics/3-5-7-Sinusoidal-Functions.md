@@ -1,9 +1,9 @@
 ---
-switcher-label: Unit
+switcher-label: Subunit
 ---
 # 3.5-7: Sinusoidal Functions
 
-This page is split into 3 parts:
+This section is split up into these following sub-units:
 
 * 3.5: Sinusoidal Functions
 * 3.6: Sinusoidal Function Transformations

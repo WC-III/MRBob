@@ -40,4 +40,8 @@
         <description>Created after removal of "2.15: Semi-log Plots" from Math</description>
         <accepts>2-15-Semi-log-Plots.html</accepts>
     </rule>
+    <rule id="60792081">
+        <description>Created after removal of "4.5, 4.7: Implicit Functions" from Math</description>
+        <accepts>4-5-4-7-Implicit-Functions.html</accepts>
+    </rule>
 </rules>

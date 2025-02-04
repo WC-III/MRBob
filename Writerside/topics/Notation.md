@@ -40,7 +40,13 @@ In order:
 : Complex Numbers (literally everything)
 : Each entry is contained by the one below it.
 
+$\because$, $\therefore$
+: Represents "because" and "therefore" respectively.
 
+$\neg$
+: Represents "the opposite of".
+In 3.8, this is used for the piece $s.t. \pm_1 = \neg \pm_2$, stating that the first $\pm$ must be the opposite of the 2nd $\pm$.
+So, if the first is a $+$, the second is a $-$.
 
 $\in$, $\ni$
 : Represents "an element of the set of".
