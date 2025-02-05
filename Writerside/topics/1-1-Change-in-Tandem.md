@@ -108,8 +108,8 @@ If the slope is negative, it's decreasing.
 
 Concavity
 : Describing the change in the rate of change (shape of the graph).
-If the rate of change is increasing, it's concave up.
-If the rate of change is decreasing, it's concave down.
+If the change in the rate of change is increasing, it's concave up.
+If the change in the rate of change is decreasing, it's concave down.
 : There's a common piece to remember it, usually in reference to parabolas (that's later!).
 : "Up like a cup, down like a frown"
 
