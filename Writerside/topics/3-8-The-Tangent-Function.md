@@ -91,6 +91,8 @@ thanks for being here
 yeah here's the general form for the limits of asymptotes
 have fun
 
+eeeeep
+
 $$
 \begin{align*}
 &\lim\limits_{\theta \to ([\frac{\pi}{b} \div 2] \pm \frac{\pi}{b}k)^{\pm_1}}a\tan(b(\theta +c))+d = \pm_2 \infty \\
