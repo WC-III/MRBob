@@ -97,12 +97,86 @@
                 </toc-element>
                 <toc-element toc-title="Unit 7: Differential Equations">
 
+                    <toc-element topic="7-1-Modeling-Situations-with-Differential-Equations.md"/>
+                    <toc-element topic="7-2-Verifying-Solutions-for-Differential-Equations.md"/>
+                    <toc-element topic="7-3-4-Slope-Fields.md"/>
+                    <toc-element topic="BC-ONLY-7-5-7-9-Expanded-Differentials.md"/>
+                    <toc-element topic="7-6-7-Finding-Differential-Solutions.md"/>
+                    <toc-element topic="7-8-Exponential-Models-with-Differential-Equations.md"/>
                 </toc-element>
                 <toc-element toc-title="Unit 8: Applications of Integration">
 
+                    <toc-element topic="8-1-Finding-the-Average-Value-of-a-Function-on-an-Interval.md"/>
+                    <toc-element
+                            topic="8-2-Connecting-Position-Velocity-and-Acceleration-of-Functions-using-Integrals.md"/>
+                    <toc-element
+                            topic="8-3-Using-Accumulation-Functions-and-Definite-Integrals-in-Applied-Contexts.md"/>
+                    <toc-element topic="8-4-6-Area-Between-Curves.md"/>
+                    <toc-element topic="8-7-12-Volume-Methods.md"/>
+                    <toc-element topic="BC-ONLY-8-13-The-Arc-Length-of-a-Smooth-Planar-Curve-and-Distance-Traveled.md"/>
                 </toc-element>
                 <toc-element toc-title="(BC ONLY) Unit 9-10: Parametric Equations, Polar Coordinates, and Vector-Valued Functions + Infinite Sequences and Series">
 
+                    <toc-element topic="9-1-3-Parametric-Equations.md"/>
+                    <toc-element topic="9-4-6-Vector-Valued-Functions.md"/>
+                    <toc-element topic="9-7-9-Polar-Coordinates-Curves.md"/>
+                    <toc-element topic="10-1-Defining-Convergent-and-Divergent-Infinite-Series.md"/>
+                    <toc-element topic="10-2-10-5-Other-Series.md"/>
+                    <toc-element topic="10-3-4-10-6-10-Testing-Series.md"/>
+                    <toc-element topic="10-11-15-Taylor-Maclaurin-and-Power-Series.md"/>
+                </toc-element>
+            </toc-element>
+            <toc-element toc-title="AP Statistics">
+                <toc-element toc-title="Unit 1-2: Exploring Variable Data">
+
+                    <toc-element topic="1-1-Introducing-Statistics-What-Can-We-Learn-from-Data.md"/>
+                    <toc-element topic="1-2-The-Language-of-Variation-Variables.md"/>
+                    <toc-element topic="1-3-6-1-9-One-Variable-Data.md"/>
+                    <toc-element topic="1-7-8-Summary-Statistics.md"/>
+                    <toc-element topic="1-10-The-Normal-Distribution.md"/>
+                    <toc-element topic="2-1-Introducing-Statistics-Are-Variables-Related.md"/>
+                    <toc-element topic="2-2-4-Two-Variable-Data.md"/>
+                    <toc-element topic="2-5-Correlation.md"/>
+                    <toc-element topic="2-6-8-Regressions-Residuals.md"/>
+                    <toc-element topic="2-9-Analyzing-Departures-from-Linearity.md"/>
+                </toc-element>
+                <toc-element toc-title="Unit 3: Collecting Data">
+
+                    <toc-element topic="3-1-Introducing-Statistics-Do-the-Data-We-Collected-Tell-the-Truth.md"/>
+                    <toc-element topic="3-2-Introduction-to-Planning-a-Study.md"/>
+                    <toc-element topic="3-3-4-Sampling.md"/>
+                    <toc-element topic="3-5-7-Experiments.md"/>
+                </toc-element>
+                <toc-element toc-title="Unit 4-5: Distributions">
+
+                    <toc-element topic="4-1-Introducing-Statistics-Random-and-Non-Random-Patterns.md"/>
+                    <toc-element topic="4-2-3-4-5-Probability.md"/>
+                    <toc-element topic="4-4-4-6-Events.md"/>
+                    <toc-element topic="4-7-9-Random-Variables.md"/>
+                    <toc-element topic="4-10-12-Distributions.md"/>
+                    <toc-element topic="5-1-Introducing-Statistics-Why-Is-My-Sample-Not-Like-Yours.md"/>
+                    <toc-element topic="5-2-The-Normal-Distribution-Revisited.md"/>
+                    <toc-element topic="5-3-The-Central-Limit-Theorem.md"/>
+                    <toc-element topic="5-4-Biased-and-Unbiased-Point-Estimates.md"/>
+                    <toc-element topic="5-5-8-Sampling-Distributions.md"/>
+                </toc-element>
+                <toc-element toc-title="Unit 6, 8: Inference for Categorical Data">
+
+                    <toc-element topic="6-1-Introducing-Statistics-Why-Be-Normal.md"/>
+                    <toc-element topic="6-2-4-6-6-Population-Proportions.md"/>
+                    <toc-element topic="6-5-Interpreting-p-Values.md"/>
+                    <toc-element topic="6-7-Potential-Errors-When-Performing-Tests.md"/>
+                    <toc-element topic="6-8-11-Difference-of-Proportions.md"/>
+                    <toc-element topic="8-1-Introducing-Statistics-Are-My-Results-Unexpected.md"/>
+                    <toc-element topic="8-2-3-Initial-Chi-Square-Test-Setup.md"/>
+                    <toc-element topic="8-4-Expected-Counts-in-Two-Way-Tables.md"/>
+                    <toc-element topic="8-5-6-Expanded-Chi-Square-Tests.md"/>
+                    <toc-element
+                            topic="8-7-Skills-Focus-Selecting-an-Appropriate-Inference-Procdure-for-Categorical-Data.md"/>
+                </toc-element>
+                <toc-element toc-title="Unit 7, 9: Inference for Quantitative Data">
+
+                    <toc-element topic="9-6-Skills-Focus-Selecting-an-Appropriate-Inference-Procedure.md"/>
                 </toc-element>
             </toc-element>
         </toc-element>

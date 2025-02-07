@@ -1,0 +1,3 @@
+# 8.1: Finding the Average Value of a Function on an Interval
+
+Start typing here...

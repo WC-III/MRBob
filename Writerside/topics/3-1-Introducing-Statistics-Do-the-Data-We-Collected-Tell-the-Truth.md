@@ -1,0 +1,3 @@
+# 3.1: Introducing Statistics: Do the Data We Collected Tell the Truth?
+
+Start typing here...

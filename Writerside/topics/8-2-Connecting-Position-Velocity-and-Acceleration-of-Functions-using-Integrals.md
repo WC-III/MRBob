@@ -1,0 +1,3 @@
+# 8.2: Connecting Position, Velocity, and Acceleration of Functions using Integrals
+
+Start typing here...

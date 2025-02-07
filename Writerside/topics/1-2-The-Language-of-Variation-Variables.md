@@ -1,0 +1,3 @@
+# 1.2: The Language of Variation: Variables
+
+Start typing here...

@@ -1,0 +1,3 @@
+# 3.2: Introduction to Planning a Study
+
+Start typing here...

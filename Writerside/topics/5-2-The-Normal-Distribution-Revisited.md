@@ -1,0 +1,3 @@
+# 5.2: The Normal Distribution, Revisited
+
+Start typing here...

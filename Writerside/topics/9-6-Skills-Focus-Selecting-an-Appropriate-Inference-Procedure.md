@@ -1,0 +1,3 @@
+# 9.6: Skills Focus: Selecting an Appropriate Inference Procedure
+
+Start typing here...

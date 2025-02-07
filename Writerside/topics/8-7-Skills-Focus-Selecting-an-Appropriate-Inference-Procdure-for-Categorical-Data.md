@@ -1,0 +1,3 @@
+# 8.7: Skills Focus: Selecting an Appropriate Inference Procdure for Categorical Data
+
+Start typing here...

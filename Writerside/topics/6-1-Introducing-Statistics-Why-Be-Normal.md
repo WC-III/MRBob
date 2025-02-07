@@ -1,0 +1,3 @@
+# 6.1: Introducing Statistics: Why Be Normal?
+
+Start typing here...

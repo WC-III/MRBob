@@ -1,0 +1,3 @@
+# 7.6-7: Finding Differential Solutions
+
+Start typing here...

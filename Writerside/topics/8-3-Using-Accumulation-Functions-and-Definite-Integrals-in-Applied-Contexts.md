@@ -1,0 +1,3 @@
+# 8.3: Using Accumulation Functions and Definite Integrals in Applied Contexts
+
+Start typing here...

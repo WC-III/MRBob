@@ -1,0 +1,3 @@
+# 4.1: Introducing Statistics: Random and Non-Random Patterns?
+
+Start typing here...

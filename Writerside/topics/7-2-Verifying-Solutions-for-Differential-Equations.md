@@ -1,0 +1,3 @@
+# 7.2: Verifying Solutions for Differential Equations
+
+Start typing here...
