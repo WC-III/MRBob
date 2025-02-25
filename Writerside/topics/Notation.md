@@ -30,6 +30,9 @@ $\to$
 : This represents a step in an equation, or a result from something.
 Often for simplification as well.
 
+$\to_c$
+: This is a branch of the arrow, which specifically is for identity conversions.
+
 $\mathbb{N, Z, Q, R, C}$
 : These are the sets of numbers.
 In order:
@@ -42,11 +45,6 @@ In order:
 
 $\because$, $\therefore$
 : Represents "because" and "therefore" respectively.
-
-$\neg$
-: Represents "the opposite of".
-In 3.8, this is used for the piece $s.t. \pm_1 = \neg \pm_2$, stating that the first $\pm$ must be the opposite of the 2nd $\pm$.
-So, if the first is a $+$, the second is a $-$.
 
 $\in$, $\ni$
 : Represents "an element of the set of".

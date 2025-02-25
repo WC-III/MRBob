@@ -18,6 +18,7 @@
         <toc-element toc-title="High School">
             <toc-element toc-title="AP Precalculus">
                 <toc-element toc-title="Unit 1: Polynomial and Rational Functions (30-40%)">
+
                     <toc-element topic="1-1-Change-in-Tandem.md"/>
                     <toc-element topic="1-2-3-Rates-of-Change.md"/>
                     <toc-element topic="1-4-6-Polynomial-Functions.md"/>
@@ -27,6 +28,7 @@
                     <toc-element topic="1-13-14-Function-Model-Construction-and-Application.md"/>
                 </toc-element>
                 <toc-element toc-title="Unit 2: Exponential and Logarithmic Functions (27-40%)">
+
                     <toc-element topic="2-1-2-Change-in-Relationships.md"/>
                     <toc-element topic="2-3-5-Exponential-Functions.md"/>
                     <toc-element topic="2-6-Competing-Function-Model-Validation.md"/>
@@ -36,6 +38,7 @@
                     <toc-element topic="2-13-Exponential-and-Logarithmic-Equations-and-Inequalities.md"/>
                 </toc-element>
                 <toc-element toc-title="Unit 3: Trigonometric and Polar Functions (30-35%)">
+
                     <toc-element topic="3-1-Periodic-Phenomena.md"/>
                     <toc-element topic="3-2-4-Sine-and-Cosine.md"/>
                     <toc-element topic="3-5-7-Sinusoidal-Functions.md"/>
@@ -44,6 +47,7 @@
                     <toc-element topic="3-13-15-Polar-Functions.md"/>
                 </toc-element>
                 <toc-element toc-title="Unit 4: Functions Involving Parameters, Vectors, and Matrices (UNTESTED)">
+
                     <toc-element topic="4-1-4-5-4-7-Parametric-Functions.md"/>
                     <toc-element topic="4-6-Conic-Sections.md"/>
                     <toc-element topic="4-8-4-9-Vectors.md"/>
@@ -78,6 +82,7 @@
                     <toc-element
                             topic="4-6-Approximating-Values-of-a-Function-Using-Local-Linearity-and-Linearization.md"/>
                     <toc-element topic="4-7-Using-L-Hospital-s-Rule-for-Determining-Limits-of-Indeterminate-Forms.md"/>
+
                     <toc-element topic="5-1-2-Value-Theorems.md"/>
                     <toc-element topic="5-3-Determining-Intervals-on-Which-a-Function-is-Increasing-or-Decreasing.md"/>
                     <toc-element topic="5-4-8-Derivatives-and-Graphs.md"/>
@@ -85,7 +90,7 @@
                     <toc-element topic="5-10-11-Optimization-Problems.md"/>
                     <toc-element topic="5-12-Exploring-Behaviors-of-Implicit-Relations.md"/>
                 </toc-element>
-                <toc-element toc-title="Unit 6: Integration and Accumulation of Change">
+                <toc-element toc-title="Unit 6-8: Basics and Application of Integration">
 
                     <toc-element topic="6-1-Exploring-Accumulations-of-Change.md"/>
                     <toc-element topic="6-2-3-Riemann-Sums.md"/>
@@ -94,17 +99,6 @@
                     <toc-element topic="6-9-6-10-Process-of-Integration.md"/>
                     <toc-element topic="BC-ONLY-6-11-13-Expanded-Integration.md"/>
                     <toc-element topic="6-14-Selecting-Techniques-for-Antidifferentiation.md"/>
-                </toc-element>
-                <toc-element toc-title="Unit 7: Differential Equations">
-
-                    <toc-element topic="7-1-Modeling-Situations-with-Differential-Equations.md"/>
-                    <toc-element topic="7-2-Verifying-Solutions-for-Differential-Equations.md"/>
-                    <toc-element topic="7-3-4-Slope-Fields.md"/>
-                    <toc-element topic="BC-ONLY-7-5-7-9-Expanded-Differentials.md"/>
-                    <toc-element topic="7-6-7-Finding-Differential-Solutions.md"/>
-                    <toc-element topic="7-8-Exponential-Models-with-Differential-Equations.md"/>
-                </toc-element>
-                <toc-element toc-title="Unit 8: Applications of Integration">
 
                     <toc-element topic="8-1-Finding-the-Average-Value-of-a-Function-on-an-Interval.md"/>
                     <toc-element
@@ -114,6 +108,15 @@
                     <toc-element topic="8-4-6-Area-Between-Curves.md"/>
                     <toc-element topic="8-7-12-Volume-Methods.md"/>
                     <toc-element topic="BC-ONLY-8-13-The-Arc-Length-of-a-Smooth-Planar-Curve-and-Distance-Traveled.md"/>
+                </toc-element>
+                <toc-element toc-title="Unit 7: Differential Equations">
+
+                    <toc-element topic="7-1-Modeling-Situations-with-Differential-Equations.md"/>
+                    <toc-element topic="7-2-Verifying-Solutions-for-Differential-Equations.md"/>
+                    <toc-element topic="7-3-4-Slope-Fields.md"/>
+                    <toc-element topic="BC-ONLY-7-5-7-9-Expanded-Differentials.md"/>
+                    <toc-element topic="7-6-7-Finding-Differential-Solutions.md"/>
+                    <toc-element topic="7-8-Exponential-Models-with-Differential-Equations.md"/>
                 </toc-element>
                 <toc-element toc-title="(BC ONLY) Unit 9-10: Parametric Equations, Polar Coordinates, and Vector-Valued Functions + Infinite Sequences and Series">
 

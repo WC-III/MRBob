@@ -70,7 +70,7 @@ $$
 3 &= a\tan(\frac{\pi}{2}(1.5 - 1))\\
 3 &= a\tan(0.5\frac{\pi}{2})\\
 3 &= a\tan(\frac{\pi}{4})\\
-3 &= a \because \tan(\frac{\pi}{4}) = 1
+3 &= a \quad \text{because} \quad \tan(\frac{\pi}{4}) = 1
 \end{align}
 $$
 
@@ -79,10 +79,10 @@ a is 3, b is $\dfrac{\pi}{2}$, c is -1, and d is 0, resulting in the function of
 
 ### Representing Asymptotes
 The period of a tangent function is usually represented by the first positive asymptote, added or subtracted from any amount of the period.
-This is represented in equation form as $x = \dfrac{\pi}{b} \div 2 \; \pm \dfrac{\pi}{b}k \quad s.t. \quad  k \in \mathbb{Z}$.
+This is represented in equation form as $x = \dfrac{\pi}{b} \div 2 \; + \dfrac{\pi}{b}k \quad s.t. \quad  k \in \mathbb{Z}$.
 
 As an example, take base $\tan(\theta)$.
-The equation for its asymptotes is just $x = \dfrac{\pi}{2} + \pi k$, whenever $k$ is an integer.
+The equation for its asymptotes is $x = \dfrac{\pi}{2} + \pi k \quad s.t. \quad k \in \mathbb{Z}$.
 If any question asks for the equation of the asymptotes, and gives a $b$ value, you should be able to determine based of that alone, if it's multiple choice.
 
 #### for fun {collapsible=true}
@@ -91,11 +91,9 @@ thanks for being here
 yeah here's the general form for the limits of asymptotes
 have fun
 
-eeeeep
-
 $$
-\begin{align*}
-&\lim\limits_{\theta \to ([\frac{\pi}{b} \div 2] \pm \frac{\pi}{b}k)^{\pm_1}}a\tan(b(\theta +c))+d = \pm_2 \infty \\
-&s.t. \; \pm_1 = \neg\pm_2
-\end{align*}
+\lim\limits_{\theta \to ([\{\frac{\pi}{b} \div 2\} + c] + \frac{\pi}{b}k)^\pm}a\tan(b(\theta +c))+d = \begin{cases}
+\mp \infty \; s.t. \; a > 0\\
+\pm \infty \; s.t. \; a < 0
+\end{cases}
 $$
