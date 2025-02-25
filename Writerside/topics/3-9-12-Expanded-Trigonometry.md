@@ -169,7 +169,7 @@ Sine Double-Angle Identity
 : This is by far the simplest one.
 
 Cosine Double-Angle Identity
-: $$\begin{align*} \cos(2\theta) &= \cos^2\theta - \sin^2\theta \\ &= 1 - 2\sin^2\theta \\ &= 2\cos^2\theta - 1 \end{align*}$$
+: $\begin{align*} \cos(2\theta) &= \cos^2\theta - \sin^2\theta \\ &= 1 - 2\sin^2\theta \\ &= 2\cos^2\theta - 1 \end{align*}$
 : These extra forms utilize the Pythagorean Identity substitutions.
 
 Sum & Difference Identity
@@ -211,7 +211,7 @@ Law of Sines
 : such that R is the radius of the circumcircle
 
 Law of Cosines
-: $$\begin{align*} c^2 &= a^2 + b^2 - 2ab\cos\gamma \\ a^2 &= b^2 + c^2 - 2bc\cos\alpha \\ b^2 &= a^2 + c^2 - 2ac\cos\beta \end{align*}$$
+: $\begin{align*} c^2 &= a^2 + b^2 - 2ab\cos\gamma \\ a^2 &= b^2 + c^2 - 2bc\cos\alpha \\ b^2 &= a^2 + c^2 - 2ac\cos\beta \end{align*}$
 
 Law of Tangents
 : $\dfrac{a - b}{a + b} = \dfrac{\tan\frac{1}{2}(\alpha - \beta)}{\tan\frac{1}{2}(\alpha + \beta)}$
