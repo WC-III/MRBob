@@ -6,8 +6,8 @@ switcher-label: Subunit
 This section contains these following sub-units:
 
 * 3.9: Inverse Trigonometric Functions
-* 3.10: N/A
-* 3.11: N/A
+* 3.10: Trigonometric Equations and Inequalities
+* 3.11: The Secant, Cosecant, and Cotangent Functions
 * 3.12: Equivalent Representations of Trigonometric Functions
 
 <!-- 3.9 -->
@@ -55,11 +55,54 @@ Therefore, $\sin(\dfrac{\pi}{3}) = \dfrac{\sqrt{3}}{2}$ will turn into
 $\arcsin(\dfrac{\sqrt{3}}{2}) = \dfrac{\pi}{3}$.
 
 ### The Uses and Delimiters
-Inverse trig. is used to find angle measures, instead of finding points or slopes.
+Inverse trig functions are used to find angle measures, instead of finding points or slopes.
+However, when attempting to do this, there is a specific valid output range.
 
+| Function        | Valid Output Range                             |
+|-----------------|------------------------------------------------|
+| $\arcsin\theta$ | $\bigg[-\dfrac{\pi}{2}, \dfrac{\pi}{2}\bigg]$  |
+| $\arccos\theta$ | $\big[0, \pi\big]$                             |
+| $\arctan\theta$ | $\left(-\dfrac{\pi}{2}, \dfrac{\pi}{2}\right)$ |
+
+This is because the definition of a function strikes again.
+Since past the bounds, each inverse input does not have exactly one unique output, then these are put into place to 
+let it work.
 
 <!-- 3.10 -->
 ## 3.10 Overview {switcher-key="3.10"}
+3.10 is often split into two parts: equations, and inequalities.
+
+### Considerations
+Problems may or may not have a domain restriction applied to them.
+If they do, something like $0 \leq \theta < 2\pi$ needs to be respected.
+
+If not, you can use general form, which should look familiar.
+The rules for general form are simple - for sine and cosine, there are two.
+For tangent, there's only one.
+
+Both of them use the solutions to the equation plus the period multiplied by some integer, usually $k$.
+
+$$
+\begin{align*}
+\sin\theta &= \frac{\sqrt{2}}{2} \\
+\theta &= \frac{\pi}{4} + 2\pi k \\
+\theta &= \frac{3\pi}{4} + 2\pi k
+\end{align*}
+$$
+
+Tangent only requires one of them, since its period equation is always half of sine and cosine.
+
+#### extra general form {collapsible=true}
+really you can determine general form from any trig function
+but this is just for sine and cosine
+
+$$
+\DeclareMathOperator{\sorc}{(sine or cosine)}
+\begin{align*}
+f(\theta) &= a\sorc(b(\theta+c))+d \\
+\theta &= S_1 + \frac{2\pi}{b}k
+\end{align*}
+$$
 
 <!-- 3.11 -->
 ## 3.11 Overview {switcher-key="3.11"}
