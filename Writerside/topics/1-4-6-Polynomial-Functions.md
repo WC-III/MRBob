@@ -106,8 +106,7 @@ Or, "since this is a **degree of 5**, then it is unsolvable by a direct formula"
 #### Unsolvable? {collapsible=true}
 So, you might be wondering why I used that second one as an example.
 A polynomial of degree 5 or higher does not have a true formula to just solve it, relying on factoring more than anything.
-This was proven by both Paolo Ruffini and Niels Henrik Abel, in 1813. See <!-- [here](https://en.wikipedia.
-org/wiki/Abel%E2%80%93Ruffini_theorem). -->
+This was proven by both Paolo Ruffini and Niels Henrik Abel, in 1813. See [here](https://en.wikipedia.org/wiki/Abel%E2%80%93Ruffini_theorem).
 
 <!-- 1.5 -->
 ## 1.5 Overview {switcher-key="1.5"}

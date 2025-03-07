@@ -1,3 +1,0 @@
-# 1.2: Defining Limits and Using Limit Notation
-
-Start typing here...
